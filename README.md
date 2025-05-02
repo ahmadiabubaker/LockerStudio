@@ -21,7 +21,7 @@ It was essential for supporting leadership decisions, identifying areas needing 
 
 ## 🌐 Live Demo
 
-👉 [View the Live Dashboard]([https://yourusername.github.io/team-performance-dashboard](https://lookerstudio.google.com/embed/reporting/fa491e7e-089e-4982-829b-52f9292f0ccf/page/BmCYD))
+👉 [View the Live Dashboard](https://lookerstudio.google.com/embed/reporting/fa491e7e-089e-4982-829b-52f9292f0ccf/page/p_jzf7a8ctad)
 
 > *Note: The dashboard is embedded directly from Looker Studio and updates automatically when the source data changes.*
 
@@ -35,7 +35,7 @@ This solution was used by event organizers to:
 ## 📷 Screenshots
 
 ![Dashboard Overview](images/p1.png)
-![Metrics Breakdown](screenshot2.png)
+![Metrics Breakdown](images/p2.png)
 
 ## 📁 Project Structure
 
