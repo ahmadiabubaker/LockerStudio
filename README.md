@@ -34,7 +34,7 @@ This solution was used by event organizers to:
 
 ## 📷 Screenshots
 
-![Dashboard Overview](screenshot1.png)
+![Dashboard Overview](images/p1.png)
 ![Metrics Breakdown](screenshot2.png)
 
 ## 📁 Project Structure
