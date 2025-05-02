@@ -21,7 +21,7 @@ It was essential for supporting leadership decisions, identifying areas needing 
 
 ## 🌐 Live Demo
 
-👉 [View the Live Dashboard](https://yourusername.github.io/team-performance-dashboard)
+👉 [View the Live Dashboard]([https://yourusername.github.io/team-performance-dashboard](https://lookerstudio.google.com/embed/reporting/fa491e7e-089e-4982-829b-52f9292f0ccf/page/BmCYD))
 
 > *Note: The dashboard is embedded directly from Looker Studio and updates automatically when the source data changes.*
 
