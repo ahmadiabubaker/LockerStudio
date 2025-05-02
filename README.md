@@ -17,7 +17,7 @@ It was essential for supporting leadership decisions, identifying areas needing 
 - **Google Sheets** — Source of structured data
 - **Google Apps Script** — Automated data transformation
 - **Google Looker Studio** — Interactive dashboards and visualizations
-- **GitHub Pages** — Public web hosting for project documentation
+- 
 
 ## 🌐 Live Demo
 
